@@ -368,5 +368,5 @@ box-align: center;
 .box div:nth-of-type(4){-webkit-box-flex:4;}
 .box div:nth-of-type(5){-webkit-box-flex:5;}
 ```
-[我的博客](https://github.com/twomiya)
+[借鉴博客地址](http://hcysun.me/2015/09/25/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%A1%B5%E9%9D%A2%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90%E6%80%BB%E7%BB%93/)
 
