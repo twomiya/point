@@ -356,7 +356,7 @@ box-align: center;
 .box div:nth-of-type(5){-webkit-box-ordinal-group:5;}
 ```
 
-####### 7、定义伸缩项目占空间的份数
+##### 7、定义伸缩项目占空间的份数
 
 ```
 -moz-box-flex:2.0; /* Firefox */
